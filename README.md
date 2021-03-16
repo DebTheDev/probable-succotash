@@ -4,7 +4,7 @@ This is a fun project while learning advanced JavaScript and CSS concepts.
 
 ## Links
 
-* [Live Demo](https://github.com/DebTheDev/probable-succotash.git)
+* [Live Demo](https://debthedev.github.io/probable-succotash/)
 
 
 ## Screenshots
